@@ -4,5 +4,5 @@ A personal voice assistant for PC built in Python.
 
 The demo of the personal voice assistant:
 
-[![](https://image.freepik.com/free-vector/your-personal-voice-flat-illustration_9041-84.jpg)](https://drive.google.com/file/d/16_6AZfIIlsqLS8KTDr-MyhaUdySwQ7Po/preview)
+[![](https://image.freepik.com/free-vector/your-personal-voice-flat-illustration_9041-84.jpg)](voice_commands_demo.mp4)
 
